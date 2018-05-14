@@ -5,11 +5,6 @@ body {
   color: white;
 }
 
-
-h1, p, h2 {
-  text-align: center;
-}
-
 h1 {
   font-weight: normal;
   font-size: 50px;
@@ -28,4 +23,8 @@ a {
 p {
   font-size: 21px;
   color: Gray;
+}
+
+.footer {
+  text-align: right;
 }
